@@ -137,6 +137,24 @@ comments: true
     **赛事主办** : CyberVT (https://ctftime.org/team/173872)  
     **添加日历** : https://ctftime.org/event/2237.ics  
     
+??? Quote "[CursedCTF 2024 Quals](https://cursedc.tf/)"  
+    [![](https://ctftime.org/media/events/Screenshot_2024-01-23_at_11.45.46_AM.png){ width="200" align=left }](https://cursedc.tf/)  
+    **比赛名称** : [CursedCTF 2024 Quals](https://cursedc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-03-30 08:00:00 - 2024-04-01 08:00:00 UTC+8  
+    **比赛权重** : 19.50  
+    **赛事主办** : cursed (https://ctftime.org/team/199492)  
+    **添加日历** : https://ctftime.org/event/2239.ics  
+    
+??? Quote "[UTCTF 2024](https://isss.io/utctf)"  
+    [![](https://ctftime.org/media/events/UTCTF2024.png){ width="200" align=left }](https://isss.io/utctf)  
+    **比赛名称** : [UTCTF 2024](https://isss.io/utctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-03-30 07:00:00 - 2024-04-01 07:00:00 UTC+8  
+    **比赛权重** : 48.00  
+    **赛事主办** : isss (https://ctftime.org/team/69010)  
+    **添加日历** : https://ctftime.org/event/2302.ics  
+    
 ??? Quote "[HACKFEST'8 QUALS](https://ctf-quals-8.hackfest.tn/)"  
     [![](https://ctftime.org/media/events/HACKFEST_WHITE.png){ width="200" align=left }](https://ctf-quals-8.hackfest.tn/)  
     **比赛名称** : [HACKFEST'8 QUALS](https://ctf-quals-8.hackfest.tn/)  
@@ -349,7 +367,7 @@ comments: true
     **比赛名称** : [osu!gaming CTF 2024](https://www.osugaming.lol/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-03-02 01:00:00 - 2024-03-04 01:00:00 UTC+8  
-    **比赛权重** : 23.91  
+    **比赛权重** : 23.93  
     **赛事主办** : osu!gaming (https://ctftime.org/team/186954)  
     **添加日历** : https://ctftime.org/event/2165.ics  
     
@@ -1000,22 +1018,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : keva (https://ctftime.org/team/2980)  
     **添加日历** : https://ctftime.org/event/2132.ics  
-    
-??? Quote "[CyberSci Regional Qualifiers 2023-24](https://CyberSci.ca/)"  
-    [![](https://ctftime.org/media/events/f064d8074a08720a1fceac259a831e7e.png){ width="200" align=left }](https://CyberSci.ca/)  
-    **比赛名称** : [CyberSci Regional Qualifiers 2023-24](https://CyberSci.ca/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2023-11-19 00:00:00 - 2023-11-19 07:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
-    **添加日历** : https://ctftime.org/event/2171.ics  
-    
-??? Quote "[saarCTF 2023](https://ctf.saarland/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ctf.saarland/)  
-    **比赛名称** : [saarCTF 2023](https://ctf.saarland/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2023-11-18 21:00:00 - 2023-11-19 06:00:00 UTC+8  
-    **比赛权重** : 90.62  
-    **赛事主办** : saarsec (https://ctftime.org/team/15337)  
-    **添加日历** : https://ctftime.org/event/2049.ics  
     
