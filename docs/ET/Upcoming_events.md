@@ -151,7 +151,7 @@ comments: true
     [![](https://ctftime.org){ width="200" align=left }](https://insomnihack.ch/contests/)  
     **比赛名称** : [Insomni'hack 2024](https://insomnihack.ch/contests/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-27 02:00:00 - 2024-04-27 13:00:00 UTC+8  
+    **比赛时间** : 2024-04-27 00:30:00 - 2024-04-27 11:00:00 UTC+8  
     **比赛权重** : 33.40  
     **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
     **添加日历** : https://ctftime.org/event/2271.ics  
@@ -561,9 +561,9 @@ comments: true
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/2211.ics  
     
-??? Quote "[TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://ctf.tcp1p.com/)"  
-    [![](https://ctftime.org/media/events/TCP1P-logo.png){ width="200" align=left }](https://ctf.tcp1p.com/)  
-    **比赛名称** : [TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://ctf.tcp1p.com/)  
+??? Quote "[TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.github.io/tcp1p-pages/tcp1pctf-2024)"  
+    [![](https://ctftime.org/media/events/TCP1P-logo.png){ width="200" align=left }](https://tcp1p.github.io/tcp1p-pages/tcp1pctf-2024)  
+    **比赛名称** : [TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.github.io/tcp1p-pages/tcp1pctf-2024)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-10-11 20:00:00 - 2024-10-13 20:00:00 UTC+8  
     **比赛权重** : 24.85  
