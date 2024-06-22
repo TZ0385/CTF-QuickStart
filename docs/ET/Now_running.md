@@ -27,15 +27,6 @@ comments: true
     **赛事主办** : Fikamyndigheten (https://ctftime.org/team/305722)  
     **添加日历** : https://ctftime.org/event/2399.ics  
     
-??? Quote "[CyberSci Nationals 2024](https://cybersecuritychallenge.ca/)"  
-    [![](https://ctftime.org/media/events/c0c445488770d1de63c46986bc92e8e6.png){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
-    **比赛名称** : [CyberSci Nationals 2024](https://cybersecuritychallenge.ca/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-06-21 20:00:00 - 2024-06-23 06:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
-    **添加日历** : https://ctftime.org/event/2366.ics  
-    
 ??? Quote "[Wani CTF 2024](https://wanictf.org/)"  
     [![](https://ctftime.org/media/events/wani_ctf_logo.png){ width="200" align=left }](https://wanictf.org/)  
     **比赛名称** : [Wani CTF 2024](https://wanictf.org/)  
@@ -62,15 +53,6 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Hack'olyte (https://ctftime.org/team/222944)  
     **添加日历** : https://ctftime.org/event/2392.ics  
-    
-??? Quote "[İGÜCTF 24'](https://igusiber.com.tr/)"  
-    [![](https://ctftime.org/media/events/siber.png){ width="200" align=left }](https://igusiber.com.tr/)  
-    **比赛名称** : [İGÜCTF 24'](https://igusiber.com.tr/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-06-22 17:00:00 - 2024-06-23 04:59:59 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Ah Yalan Dünya (https://ctftime.org/team/202267)  
-    **添加日历** : https://ctftime.org/event/2394.ics  
     
 ??? Quote "[Pacific Hackers Pre-DEFCON CTF & BBQ 2024](https://www.meetup.com/pacifichackers/events/301096276/)"  
     [![](https://ctftime.org/media/events/pacific_hacker_bear.png){ width="200" align=left }](https://www.meetup.com/pacifichackers/events/301096276/)  
