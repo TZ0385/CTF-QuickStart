@@ -5,13 +5,7 @@ comments: true
 
 ## 国内赛事
 
-??? Quote "第十七届全国大学生信息安全竞赛创新实践能力赛（总决赛）"  
-    **比赛名称** : [第十七届全国大学生信息安全竞赛创新实践能力赛（总决赛）](http://www.ciscn.cn/announcement/view/350)  
-    **比赛类型** : 团队赛|1-4人  
-    **报名时间** : 2024年07月04日 02:50 - 2024年07月04日 03:50  
-    **比赛时间** : 2024年07月20日 00:00 - 2024年07月21日 23:59  
-    **其他说明** : QQ群：979328132  
-    
+
 
 ## 国际赛事
 
@@ -32,13 +26,4 @@ comments: true
     **比赛权重** : 49.81  
     **赛事主办** : ImaginaryCTF (https://ctftime.org/team/131529)  
     **添加日历** : https://ctftime.org/event/2396.ics  
-    
-??? Quote "[BDSec CTF 2024](https://bdsec-ctf.com/)"  
-    [![](https://ctftime.org/media/events/brand-logo_1.png){ width="200" align=left }](https://bdsec-ctf.com/)  
-    **比赛名称** : [BDSec CTF 2024](https://bdsec-ctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-07-20 23:00:00 - 2024-07-21 23:00:00 UTC+8  
-    **比赛权重** : 16.00  
-    **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
-    **添加日历** : https://ctftime.org/event/2421.ics  
     
