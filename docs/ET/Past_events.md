@@ -91,6 +91,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[NoHat CTF 2024](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)  
+    **比赛名称** : [NoHat CTF 2024](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-10-13 00:00:00 - 2024-10-14 00:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : PWNX (https://ctftime.org/team/179989)  
+    **添加日历** : https://ctftime.org/event/2518.ics  
+    
 ??? Quote "[Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)"  
     [![](https://ctftime.org/media/events/HausDerFlaggen_Plakat_1080_x_1080_px.png){ width="200" align=left }](https://laokoon-security.com/ctf2024)  
     **比赛名称** : [Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)  
@@ -351,15 +360,6 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
     **添加日历** : https://ctftime.org/event/2466.ics  
-    
-??? Quote "[TO DELETE - Event: https://ctftime.org/event/2520](https://ctf.securinets.tn/)"  
-    [![](https://ctftime.org/media/events/d82bcfc5f1d83b7cc51c7dd0dbc8f5c6.png){ width="200" align=left }](https://ctf.securinets.tn/)  
-    **比赛名称** : [TO DELETE - Event: https://ctftime.org/event/2520](https://ctf.securinets.tn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-15 03:00:00 - 2024-09-16 03:00:00 UTC+8  
-    **比赛权重** : 95.59  
-    **赛事主办** : Securinets (https://ctftime.org/team/5084)  
-    **添加日历** : https://ctftime.org/event/2410.ics  
     
 ??? Quote "[KubanCTF Qualifier 2024](https://kubanctf.ru/signUp)"  
     [![](https://ctftime.org/media/events/0f5e680946259ad6bbdf28ccb33b74e9.png){ width="200" align=left }](https://kubanctf.ru/signUp)  
