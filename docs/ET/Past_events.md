@@ -159,7 +159,7 @@ comments: true
     **比赛名称** : [CTFZone 2024 Final](http://ctf.bi.zone/)  
     **比赛形式** : Attack-Defense  
     **比赛时间** : 2024-11-24 17:00:00 - 2024-11-25 01:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 96.90  
     **赛事主办** : BIZone (https://ctftime.org/team/32190)  
     **添加日历** : https://ctftime.org/event/2506.ics  
     
@@ -267,7 +267,7 @@ comments: true
     **比赛名称** : [PwnSec CTF 2024](https://ctf.pwnsec.xyz/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-11-15 23:00:00 - 2024-11-16 23:00:00 UTC+8  
-    **比赛权重** : 24.19  
+    **比赛权重** : 24.24  
     **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
     **添加日历** : https://ctftime.org/event/2454.ics  
     
@@ -321,7 +321,7 @@ comments: true
     **比赛名称** : [Bambi CTF #11](https://bambi11.enoflag.de/)  
     **比赛形式** : Attack-Defense  
     **比赛时间** : 2024-11-09 19:00:00 - 2024-11-10 01:00:00 UTC+8  
-    **比赛权重** : 83.80  
+    **比赛权重** : 84.81  
     **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
     **添加日历** : https://ctftime.org/event/2551.ics  
     
@@ -348,7 +348,7 @@ comments: true
     **比赛名称** : [4T$ CTF](https://ctf.4ts.fr/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-11-09 02:00:00 - 2024-11-11 02:00:00 UTC+8  
-    **比赛权重** : 24.20  
+    **比赛权重** : 24.25  
     **赛事主办** : 4T$ (https://ctftime.org/team/302295)  
     **添加日历** : https://ctftime.org/event/2545.ics  
     
