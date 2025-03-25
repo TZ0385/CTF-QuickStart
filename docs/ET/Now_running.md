@@ -36,30 +36,12 @@ comments: true
     **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
     **添加日历** : https://ctftime.org/event/2674.ics  
     
-??? Quote "[pingCTF 2025](https://knping.pl/ctf)"  
-    [![](https://ctftime.org/media/events/CTF_blank_1.png){ width="200" align=left }](https://knping.pl/ctf)  
-    **比赛名称** : [pingCTF 2025](https://knping.pl/ctf)  
+??? Quote "[HICAThon 1.0](https://hicathon01.xyz/)"  
+    [![](https://ctftime.org/media/events/Frame_4034.png){ width="200" align=left }](https://hicathon01.xyz/)  
+    **比赛名称** : [HICAThon 1.0](https://hicathon01.xyz/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-03-22 03:00:00 - 2025-03-24 03:00:00 UTC+8  
-    **比赛权重** : 32.50  
-    **赛事主办** : pingCTF (https://ctftime.org/team/147266)  
-    **添加日历** : https://ctftime.org/event/2670.ics  
-    
-??? Quote "[WHY2025 CTF Teaser](https://ctf.why2025.org/)"  
-    [![](https://ctftime.org/media/events/CTF_logo_v0.2.jpg){ width="200" align=left }](https://ctf.why2025.org/)  
-    **比赛名称** : [WHY2025 CTF Teaser](https://ctf.why2025.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-03-22 03:00:00 - 2025-03-24 03:00:00 UTC+8  
+    **比赛时间** : 2025-03-25 11:00:00 - 2025-03-26 20:30:00 UTC+8  
     **比赛权重** : 0  
-    **赛事主办** : Eindbazen (https://ctftime.org/team/322)  
-    **添加日历** : https://ctftime.org/event/2679.ics  
-    
-??? Quote "[RITSEC CTF 2025](https://ctfd.ritsec.club/)"  
-    [![](https://ctftime.org/media/events/Screenshot_From_2025-03-04_12-03-08.png){ width="200" align=left }](https://ctfd.ritsec.club/)  
-    **比赛名称** : [RITSEC CTF 2025](https://ctfd.ritsec.club/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-03-22 05:00:00 - 2025-03-24 05:00:00 UTC+8  
-    **比赛权重** : 34.14  
-    **赛事主办** : Contagion (https://ctftime.org/team/152691)  
-    **添加日历** : https://ctftime.org/event/2673.ics  
+    **赛事主办** : HICA SSPU (https://ctftime.org/team/372831)  
+    **添加日历** : https://ctftime.org/event/2724.ics  
     
