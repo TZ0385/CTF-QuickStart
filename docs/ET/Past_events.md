@@ -28,6 +28,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[JerseyCTF V](https://ctf.jerseyctf.com/)"  
+    [![](https://ctftime.org/media/events/jctfv_hat_1.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
+    **比赛名称** : [JerseyCTF V](https://ctf.jerseyctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-03-30 03:00:00 - 2025-03-31 03:00:00 UTC+8  
+    **比赛权重** : 24.73  
+    **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
+    **添加日历** : https://ctftime.org/event/2667.ics  
+    
 ??? Quote "[CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)"  
     [![](https://ctftime.org/media/events/logo_CodeVinci.jpg){ width="200" align=left }](https://codevincictf.itis.pr.it/)  
     **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
@@ -63,6 +72,15 @@ comments: true
     **比赛权重** : 24.50  
     **赛事主办** : Undutmaning (https://ctftime.org/team/212504)  
     **添加日历** : https://ctftime.org/event/2589.ics  
+    
+??? Quote "[PolyPwnCTF 2025](https://pwn.polycyber.io/)"  
+    [![](https://ctftime.org/media/events/Logo_PolyPwn_CTF.jpg){ width="200" align=left }](https://pwn.polycyber.io/)  
+    **比赛名称** : [PolyPwnCTF 2025](https://pwn.polycyber.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-03-29 18:00:00 - 2025-03-31 04:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : PolyCyber (https://ctftime.org/team/212241)  
+    **添加日历** : https://ctftime.org/event/2734.ics  
     
 ??? Quote "[LBC2 2025](http://lbc2.org/)"  
     [![](https://ctftime.org){ width="200" align=left }](http://lbc2.org/)  
@@ -186,7 +204,7 @@ comments: true
     **比赛名称** : [WHY2025 CTF Teaser](https://ctf.why2025.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-03-22 03:00:00 - 2025-03-24 03:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 0.00  
     **赛事主办** : Eindbazen (https://ctftime.org/team/322)  
     **添加日历** : https://ctftime.org/event/2679.ics  
     
@@ -909,22 +927,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
     **添加日历** : https://ctftime.org/event/2488.ics  
-    
-??? Quote "[Platypwn 2024](https://platypwn.ctf.platypwnies.de/)"  
-    [![](https://ctftime.org/media/events/Platypwnie.png){ width="200" align=left }](https://platypwn.ctf.platypwnies.de/)  
-    **比赛名称** : [Platypwn 2024](https://platypwn.ctf.platypwnies.de/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-12-07 22:00:00 - 2024-12-08 22:00:00 UTC+8  
-    **比赛权重** : 24.75  
-    **赛事主办** : Platypwnies (https://ctftime.org/team/112550)  
-    **添加日历** : https://ctftime.org/event/2407.ics  
-    
-??? Quote "[RedShift.Eclipse 2 Finals]()"  
-    [![](https://ctftime.org/media/events/5202034882946130981.jpg){ width="200" align=left }]()  
-    **比赛名称** : [RedShift.Eclipse 2 Finals]()  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2024-12-07 18:00:00 - 2024-12-08 03:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : o1d_bu7_go1d (https://ctftime.org/team/213673)  
-    **添加日历** : https://ctftime.org/event/2538.ics  
     
