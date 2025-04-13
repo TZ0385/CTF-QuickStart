@@ -5,6 +5,13 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "TGCTF 2025"  
+    **比赛名称** : [TGCTF 2025](https://tgctf.woooo.tech/)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2025年04月12日 09:00 - 2025年04月11日 21:00  
+    **比赛时间** : 2025年04月12日 09:00 - 2025年04月13日 21:00  
+    **其他说明** : TGCTF 2025（杭州师范大学第六届网络与信息安全竞赛）由杭州师范大学主办，报名截止时间为2025年4月11日21点，比赛时间为4月12号9点至4月13号21点，共36小时。  
+    
 ??? Quote "商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）"  
     **比赛名称** : [商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）](www.qsnctf.com)  
     **比赛类型** : 线上Jeopardy解题赛  
@@ -42,6 +49,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[SummitCTF 2025](https://summitctf.org/)"  
+    [![](https://ctftime.org/media/events/Summitctf.png){ width="200" align=left }](https://summitctf.org/)  
+    **比赛名称** : [SummitCTF 2025](https://summitctf.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-04-12 22:00:00 - 2025-04-13 22:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : CyberVT (https://ctftime.org/team/173872)  
+    **添加日历** : https://ctftime.org/event/2662.ics  
+    
 ??? Quote "[PwnMe CTF Finals 2025](https://pwnme.fr/)"  
     [![](https://ctftime.org/media/events/PWNME_ReseauxPP1.jpg){ width="200" align=left }](https://pwnme.fr/)  
     **比赛名称** : [PwnMe CTF Finals 2025](https://pwnme.fr/)  
@@ -932,13 +948,4 @@ comments: true
     **比赛权重** : 92.75  
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/2403.ics  
-    
-??? Quote "[hxp 38C3 CTF](https://2024.ctf.link/)"  
-    [![](https://ctftime.org/media/events/hxp-38c3.png){ width="200" align=left }](https://2024.ctf.link/)  
-    **比赛名称** : [hxp 38C3 CTF](https://2024.ctf.link/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-12-28 04:00:00 - 2024-12-30 04:00:00 UTC+8  
-    **比赛权重** : 98.14  
-    **赛事主办** : hxp (https://ctftime.org/team/585)  
-    **添加日历** : https://ctftime.org/event/2437.ics  
     
