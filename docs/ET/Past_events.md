@@ -67,6 +67,15 @@ comments: true
     **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
     **添加日历** : https://ctftime.org/event/2719.ics  
     
+??? Quote "[UMDCTF 2025](https://umdctf.io/)"  
+    [![](https://ctftime.org/media/events/logo-cropped.png){ width="200" align=left }](https://umdctf.io/)  
+    **比赛名称** : [UMDCTF 2025](https://umdctf.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-04-26 06:00:00 - 2025-04-28 06:00:00 UTC+8  
+    **比赛权重** : 70.86  
+    **赛事主办** : UMDCSEC (https://ctftime.org/team/87711)  
+    **添加日历** : https://ctftime.org/event/2563.ics  
+    
 ??? Quote "[CTF@CIT 2025](https://ctf.cyber-cit.club/)"  
     [![](https://ctftime.org/media/events/CTF-CIT-ctftime_2.png){ width="200" align=left }](https://ctf.cyber-cit.club/)  
     **比赛名称** : [CTF@CIT 2025](https://ctf.cyber-cit.club/)  
@@ -171,7 +180,7 @@ comments: true
     **比赛名称** : [Midnight Flag CTF - INSURRECTION](https://midnightflag.fr/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-04-12 16:00:00 - 2025-04-14 00:00:00 UTC+8  
-    **比赛权重** : 24.43  
+    **比赛权重** : 24.50  
     **赛事主办** : Midnight Flag (https://ctftime.org/team/179110)  
     **添加日历** : https://ctftime.org/event/2687.ics  
     
@@ -252,7 +261,7 @@ comments: true
     **比赛名称** : [Breach CTF 2025](https://www.breachers.in/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-04-05 10:30:00 - 2025-04-06 10:30:00 UTC+8  
-    **比赛权重** : 23.67  
+    **比赛权重** : 23.77  
     **赛事主办** : IITBreachers (https://ctftime.org/team/165802)  
     **添加日历** : https://ctftime.org/event/2671.ics  
     
@@ -939,13 +948,4 @@ comments: true
     **比赛权重** : 19.90  
     **赛事主办** : HackDayCTF (https://ctftime.org/team/277562)  
     **添加日历** : https://ctftime.org/event/2615.ics  
-    
-??? Quote "[TUCTF 2024](https://ctfd.tuctf.com/)"  
-    [![](https://ctftime.org/media/events/TU-CTF-2024_2.png){ width="200" align=left }](https://ctfd.tuctf.com/)  
-    **比赛名称** : [TUCTF 2024](https://ctfd.tuctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-01-25 03:00:00 - 2025-01-27 03:00:00 UTC+8  
-    **比赛权重** : 28.60  
-    **赛事主办** : ascii overflow (https://ctftime.org/team/15360)  
-    **添加日历** : https://ctftime.org/event/2584.ics  
     
