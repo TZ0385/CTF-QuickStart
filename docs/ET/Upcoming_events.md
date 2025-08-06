@@ -76,9 +76,9 @@ comments: true
     **赛事主办** : CRHC-CTF (https://ctftime.org/team/394472)  
     **添加日历** : https://ctftime.org/event/2873.ics  
     
-??? Quote "[CTFZone 2025 Quals](https://ctf.bi.zone/)"  
-    [![](https://ctftime.org/media/events/ctfzone_logo_1.png){ width="200" align=left }](https://ctf.bi.zone/)  
-    **比赛名称** : [CTFZone 2025 Quals](https://ctf.bi.zone/)  
+??? Quote "[CTFZone 2025 Quals](https://board.ctfz.zone/)"  
+    [![](https://ctftime.org/media/events/ctfzone_logo_1.png){ width="200" align=left }](https://board.ctfz.zone/)  
+    **比赛名称** : [CTFZone 2025 Quals](https://board.ctfz.zone/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-08-16 18:00:00 - 2025-08-17 18:00:00 UTC+8  
     **比赛权重** : 92.45  
@@ -247,9 +247,9 @@ comments: true
     **赛事主办** : CCSIR.org (https://ctftime.org/team/9831)  
     **添加日历** : https://ctftime.org/event/2866.ics  
     
-??? Quote "[Null CTF 2025](https://ctf.r0devnull.team/)"  
+??? Quote "[Null CTF 2025 (postponed to 19-21 sep)](https://ctf.r0devnull.team/)"  
     [![](https://ctftime.org/media/events/null_ctf_logo_temp.png){ width="200" align=left }](https://ctf.r0devnull.team/)  
-    **比赛名称** : [Null CTF 2025](https://ctf.r0devnull.team/)  
+    **比赛名称** : [Null CTF 2025 (postponed to 19-21 sep)](https://ctf.r0devnull.team/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-09-12 18:00:00 - 2025-09-14 18:00:00 UTC+8  
     **比赛权重** : 0.00  
