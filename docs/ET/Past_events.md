@@ -91,7 +91,7 @@ comments: true
     **比赛名称** : [07CTF](https://ctf.0bscuri7y.xyz/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-09-13 14:30:00 - 2025-09-15 02:30:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 23.61  
     **赛事主办** : 0bscuri7y (https://ctftime.org/team/370140)  
     **添加日历** : https://ctftime.org/event/2848.ics  
     
@@ -226,7 +226,7 @@ comments: true
     **比赛名称** : [Full Weak Engineer CTF 2025](https://ctf.fwectf.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-08-29 18:00:00 - 2025-08-31 18:00:00 UTC+8  
-    **比赛权重** : 24.57  
+    **比赛权重** : 24.59  
     **赛事主办** : full_weak_engineer (https://ctftime.org/team/305489)  
     **添加日历** : https://ctftime.org/event/2864.ics  
     
