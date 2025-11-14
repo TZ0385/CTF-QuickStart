@@ -14,6 +14,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Guardians of the TI](http://ctf.gematik.de/)"  
+    [![](https://ctftime.org/media/events/logo_guardians.png){ width="200" align=left }](http://ctf.gematik.de/)  
+    **比赛名称** : [Guardians of the TI](http://ctf.gematik.de/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-11-14 17:00:00 - 2025-11-15 01:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : H34lthineer (https://ctftime.org/team/170109)  
+    **添加日历** : https://ctftime.org/event/3006.ics  
+    
 ??? Quote "[POC CTF Final 2025](https://powerofcommunity.net/2025/ctf.html)"  
     [![](https://ctftime.org/media/events/vDP90SY4soKs6q3cKITowqXIE7a0Jy_1.png){ width="200" align=left }](https://powerofcommunity.net/2025/ctf.html)  
     **比赛名称** : [POC CTF Final 2025](https://powerofcommunity.net/2025/ctf.html)  
@@ -850,15 +859,6 @@ comments: true
     **比赛权重** : 24.63  
     **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
     **添加日历** : https://ctftime.org/event/2835.ics  
-    
-??? Quote "[[POSTPONED]RCTF 2025](https://rctf.rois.io/)"  
-    [![](https://ctftime.org/media/events/rois.jpg){ width="200" align=left }](https://rctf.rois.io/)  
-    **比赛名称** : [[POSTPONED]RCTF 2025](https://rctf.rois.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-08-20 18:00:00 - 2025-08-22 18:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : ROIS (https://ctftime.org/team/6476)  
-    **添加日历** : https://ctftime.org/event/2771.ics  
     
 ??? Quote "[CTFZone 2025 Quals](https://board.ctfz.zone/)"  
     [![](https://ctftime.org/media/events/ctfzone_logo_1.png){ width="200" align=left }](https://board.ctfz.zone/)  
