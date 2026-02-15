@@ -5,6 +5,13 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "HGAME 2026"  
+    **比赛名称** : [HGAME 2026](https://hgame.vidar.club/)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2026年01月26日 00:00 - 2026年02月15日 19:59  
+    **比赛时间** : 2026年02月02日 10:00 - 2026年02月15日 20:00  
+    **其他说明** : HGAME 2026 是一场由Vidar-Team组织的线上Jeopardy解题赛，。报名从2026年01月26日00:00开始，到2026年02月15日20:00结束。比赛从2026年02月02日10:00开始，至2026年02月15日20:00结束。更多信息，请加入QQ群576834793。  
+    
 ??? Quote "furryCTF 2025 高校联合新神赛"  
     **比赛名称** : [furryCTF 2025 高校联合新神赛](https://furryctf.com/)  
     **比赛类型** : 线上Jeopardy解题赛  
@@ -53,7 +60,7 @@ comments: true
     **比赛名称** : [EncipherX CTF 4.0](https://encipherx.in/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-02-07 19:00:00 - 2026-02-08 19:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 0.00  
     **赛事主办** : Phoenixcybersecurity (https://ctftime.org/team/419257)  
     **添加日历** : https://ctftime.org/event/3074.ics  
     
