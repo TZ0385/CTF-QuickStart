@@ -27,12 +27,21 @@ comments: true
     **赛事主办** : vulnbydefault (https://ctftime.org/team/423471)  
     **添加日历** : https://ctftime.org/event/3135.ics  
     
-??? Quote "[UniVsThreats 26 Quals CTF](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)"  
-    [![](https://ctftime.org/media/events/UniVsThreats26_Final_No_Sponsors_1.jpg){ width="200" align=left }](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)  
-    **比赛名称** : [UniVsThreats 26 Quals CTF](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)  
+??? Quote "[Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)"  
+    [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_1.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
+    **比赛名称** : [Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-02-27 16:00:00 - 2026-02-28 16:00:00 UTC+8  
-    **比赛权重** : 18.35  
-    **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
-    **添加日历** : https://ctftime.org/event/3092.ics  
+    **比赛时间** : 2026-03-01 02:00:00 - 2026-03-02 02:00:00 UTC+8  
+    **比赛权重** : 34.76  
+    **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
+    **添加日历** : https://ctftime.org/event/3043.ics  
+    
+??? Quote "[CyberGame 2026](https://cybergame.sk/)"  
+    [![](https://ctftime.org/media/events/76a04fd5e7b9d834480d92fbf702f749.png){ width="200" align=left }](https://cybergame.sk/)  
+    **比赛名称** : [CyberGame 2026](https://cybergame.sk/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-01 07:00:00 - 2026-05-10 05:59:59 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : SK-CERT (https://ctftime.org/team/378916)  
+    **添加日历** : https://ctftime.org/event/3142.ics  
     

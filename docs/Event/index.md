@@ -289,60 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[EHAX CTF 2026](https://ctf.ehax.in/)"  
-                [![](https://ctftime.org/media/events/EHAX_CTF_FINAL_LOGO_1.png){ width="200" align=left }](https://ctf.ehax.in/)  
-                **比赛名称** : [EHAX CTF 2026](https://ctf.ehax.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-02-28 02:30:00 - 2026-03-01 14:30:00 UTC+8  
-                **比赛权重** : 22.67  
-                **赛事主办** : EHAX (https://ctftime.org/team/270643)  
-                **添加日历** : https://ctftime.org/event/3127.ics  
-                
-            ??? Quote "[SECCON CTF 14 International Finals](https://ctf.seccon.jp/)"  
-                [![](https://ctftime.org/media/events/seccon_s_11.png){ width="200" align=left }](https://ctf.seccon.jp/)  
-                **比赛名称** : [SECCON CTF 14 International Finals](https://ctf.seccon.jp/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-02-28 09:00:00 - 2026-03-01 17:00:00 UTC+8  
-                **比赛权重** : 37.00  
-                **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
-                **添加日历** : https://ctftime.org/event/3106.ics  
-                
-            ??? Quote "[SECCON CTF 14 Domestic Finals](https://ctf.seccon.jp/)"  
-                [![](https://ctftime.org/media/events/seccon_s_12.png){ width="200" align=left }](https://ctf.seccon.jp/)  
-                **比赛名称** : [SECCON CTF 14 Domestic Finals](https://ctf.seccon.jp/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-02-28 09:00:00 - 2026-03-01 17:00:00 UTC+8  
-                **比赛权重** : 37.00  
-                **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
-                **添加日历** : https://ctftime.org/event/3107.ics  
-                
-            ??? Quote "[CREST CTF](https://crestpcu.in/)"  
-                [![](https://ctftime.org/media/events/crest_logo.jpeg){ width="200" align=left }](https://crestpcu.in/)  
-                **比赛名称** : [CREST CTF](https://crestpcu.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-02-28 12:30:00 - 2026-02-28 20:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CREST (https://ctftime.org/team/418000)  
-                **添加日历** : https://ctftime.org/event/3123.ics  
-                
-            ??? Quote "[Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)"  
-                [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_1.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
-                **比赛名称** : [Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-01 02:00:00 - 2026-03-02 02:00:00 UTC+8  
-                **比赛权重** : 34.76  
-                **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
-                **添加日历** : https://ctftime.org/event/3043.ics  
-                
-            ??? Quote "[CyberGame 2026](https://cybergame.sk/)"  
-                [![](https://ctftime.org/media/events/76a04fd5e7b9d834480d92fbf702f749.png){ width="200" align=left }](https://cybergame.sk/)  
-                **比赛名称** : [CyberGame 2026](https://cybergame.sk/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-01 07:00:00 - 2026-05-10 05:59:59 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : SK-CERT (https://ctftime.org/team/378916)  
-                **添加日历** : https://ctftime.org/event/3142.ics  
-                
             ??? Quote "[CSCG 2026](https://play.cscg.live/)"  
                 [![](){ width="200" align=left }](https://play.cscg.live/)  
                 **比赛名称** : [CSCG 2026](https://play.cscg.live/)  
@@ -752,14 +698,23 @@ hide:
                 **赛事主办** : vulnbydefault (https://ctftime.org/team/423471)  
                 **添加日历** : https://ctftime.org/event/3135.ics  
                 
-            ??? Quote "[UniVsThreats 26 Quals CTF](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)"  
-                [![](https://ctftime.org/media/events/UniVsThreats26_Final_No_Sponsors_1.jpg){ width="200" align=left }](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)  
-                **比赛名称** : [UniVsThreats 26 Quals CTF](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)  
+            ??? Quote "[Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)"  
+                [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_1.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
+                **比赛名称** : [Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-02-27 16:00:00 - 2026-02-28 16:00:00 UTC+8  
-                **比赛权重** : 18.35  
-                **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
-                **添加日历** : https://ctftime.org/event/3092.ics  
+                **比赛时间** : 2026-03-01 02:00:00 - 2026-03-02 02:00:00 UTC+8  
+                **比赛权重** : 34.76  
+                **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
+                **添加日历** : https://ctftime.org/event/3043.ics  
+                
+            ??? Quote "[CyberGame 2026](https://cybergame.sk/)"  
+                [![](https://ctftime.org/media/events/76a04fd5e7b9d834480d92fbf702f749.png){ width="200" align=left }](https://cybergame.sk/)  
+                **比赛名称** : [CyberGame 2026](https://cybergame.sk/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-01 07:00:00 - 2026-05-10 05:59:59 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : SK-CERT (https://ctftime.org/team/378916)  
+                **添加日历** : https://ctftime.org/event/3142.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -785,6 +740,51 @@ hide:
                 **其他说明** : 4人一组团队赛，需先在CTFPlus比赛大厅报名（https://www.ctfplus.cn）；奖项含社会赛道与新生赛道奖金及证书，单方向额外奖励。  
                 
         === "国外赛事"
+            ??? Quote "[CREST CTF](https://crestpcu.in/)"  
+                [![](https://ctftime.org/media/events/crest_logo.jpeg){ width="200" align=left }](https://crestpcu.in/)  
+                **比赛名称** : [CREST CTF](https://crestpcu.in/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-02-28 12:30:00 - 2026-02-28 20:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : CREST (https://ctftime.org/team/418000)  
+                **添加日历** : https://ctftime.org/event/3123.ics  
+                
+            ??? Quote "[SECCON CTF 14 International Finals](https://ctf.seccon.jp/)"  
+                [![](https://ctftime.org/media/events/seccon_s_11.png){ width="200" align=left }](https://ctf.seccon.jp/)  
+                **比赛名称** : [SECCON CTF 14 International Finals](https://ctf.seccon.jp/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-02-28 09:00:00 - 2026-03-01 17:00:00 UTC+8  
+                **比赛权重** : 37.00  
+                **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
+                **添加日历** : https://ctftime.org/event/3106.ics  
+                
+            ??? Quote "[SECCON CTF 14 Domestic Finals](https://ctf.seccon.jp/)"  
+                [![](https://ctftime.org/media/events/seccon_s_12.png){ width="200" align=left }](https://ctf.seccon.jp/)  
+                **比赛名称** : [SECCON CTF 14 Domestic Finals](https://ctf.seccon.jp/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-02-28 09:00:00 - 2026-03-01 17:00:00 UTC+8  
+                **比赛权重** : 37.00  
+                **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
+                **添加日历** : https://ctftime.org/event/3107.ics  
+                
+            ??? Quote "[EHAX CTF 2026](https://ctf.ehax.in/)"  
+                [![](https://ctftime.org/media/events/EHAX_CTF_FINAL_LOGO_1.png){ width="200" align=left }](https://ctf.ehax.in/)  
+                **比赛名称** : [EHAX CTF 2026](https://ctf.ehax.in/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-02-28 02:30:00 - 2026-03-01 14:30:00 UTC+8  
+                **比赛权重** : 22.67  
+                **赛事主办** : EHAX (https://ctftime.org/team/270643)  
+                **添加日历** : https://ctftime.org/event/3127.ics  
+                
+            ??? Quote "[UniVsThreats 26 Quals CTF](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)"  
+                [![](https://ctftime.org/media/events/UniVsThreats26_Final_No_Sponsors_1.jpg){ width="200" align=left }](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)  
+                **比赛名称** : [UniVsThreats 26 Quals CTF](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-02-27 16:00:00 - 2026-02-28 16:00:00 UTC+8  
+                **比赛权重** : 18.35  
+                **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
+                **添加日历** : https://ctftime.org/event/3092.ics  
+                
             ??? Quote "[BearcatCTF 2026 - Setting Sail](https://bearcatctf.io/)"  
                 [![](https://ctftime.org/media/events/bearcat26_logo_black.png){ width="200" align=left }](https://bearcatctf.io/)  
                 **比赛名称** : [BearcatCTF 2026 - Setting Sail](https://bearcatctf.io/)  
@@ -871,7 +871,7 @@ hide:
                 **比赛名称** : [0xFUN CTF 2026](https://ctf.0xfun.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-13 02:00:00 - 2026-02-15 02:00:00 UTC+8  
-                **比赛权重** : 18.00  
+                **比赛权重** : 17.32  
                 **赛事主办** : 0xFUN (https://ctftime.org/team/354033)  
                 **添加日历** : https://ctftime.org/event/3081.ics  
                 
@@ -925,7 +925,7 @@ hide:
                 **比赛名称** : [PascalCTF 2026](https://ctf.pascalctf.it/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-31 16:00:00 - 2026-02-01 16:00:00 UTC+8  
-                **比赛权重** : 23.84  
+                **比赛权重** : 23.89  
                 **赛事主办** : Paolo (https://ctftime.org/team/263145)  
                 **添加日历** : https://ctftime.org/event/2767.ics  
                 
@@ -1051,7 +1051,7 @@ hide:
                 **比赛名称** : [0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-23 21:00:00 - 2026-01-25 21:00:00 UTC+8  
-                **比赛权重** : 29.01  
+                **比赛权重** : 28.38  
                 **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
                 **添加日历** : https://ctftime.org/event/3024.ics  
                 
@@ -1123,7 +1123,7 @@ hide:
                 **比赛名称** : [Scarlet CTF 2026](http://ctf.rusec.club/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-09 08:00:00 - 2026-01-12 08:00:00 UTC+8  
-                **比赛权重** : 22.88  
+                **比赛权重** : 22.95  
                 **赛事主办** : ScarletCTF (https://ctftime.org/team/226444)  
                 **添加日历** : https://ctftime.org/event/2981.ics  
                 
@@ -1639,51 +1639,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
                 **添加日历** : https://ctftime.org/event/2982.ics  
-                
-            ??? Quote "[Ctrl+Space CTF Finals](https://ctrl-space.gg/)"  
-                [![](https://ctftime.org/media/events/ctrlspace_1_1.png){ width="200" align=left }](https://ctrl-space.gg/)  
-                **比赛名称** : [Ctrl+Space CTF Finals](https://ctrl-space.gg/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-04 17:00:00 - 2025-11-06 19:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : ESA (https://ctftime.org/team/391420)  
-                **添加日历** : https://ctftime.org/event/2989.ics  
-                
-            ??? Quote "[Russian CTF Cup 2025 Qualifier](https://ctfcup.ru/)"  
-                [![](){ width="200" align=left }](https://ctfcup.ru/)  
-                **比赛名称** : [Russian CTF Cup 2025 Qualifier](https://ctfcup.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-02 17:00:00 - 2025-11-03 17:00:00 UTC+8  
-                **比赛权重** : 35.29  
-                **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
-                **添加日历** : https://ctftime.org/event/2993.ics  
-                
-            ??? Quote "[N1CTF 2025](https://ctf2025.nu1l.com/)"  
-                [![](https://ctftime.org/media/events/logo2_5_2.png){ width="200" align=left }](https://ctf2025.nu1l.com/)  
-                **比赛名称** : [N1CTF 2025](https://ctf2025.nu1l.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-01 20:00:00 - 2025-11-02 20:00:00 UTC+8  
-                **比赛权重** : 94.50  
-                **赛事主办** : Nu1L (https://ctftime.org/team/19208)  
-                **添加日历** : https://ctftime.org/event/2795.ics  
-                
-            ??? Quote "[Cryovault Quals](https://www.isfcr.pes.edu/)"  
-                [![](){ width="200" align=left }](https://www.isfcr.pes.edu/)  
-                **比赛名称** : [Cryovault Quals](https://www.isfcr.pes.edu/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-01 14:30:00 - 2025-11-02 14:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
-                **添加日历** : https://ctftime.org/event/2984.ics  
-                
-            ??? Quote "[Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)"  
-                [![](https://ctftime.org/media/events/SPG_Hackloween_2025__FB_Profile.png){ width="200" align=left }](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
-                **比赛名称** : [Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-01 10:00:00 - 2025-11-02 10:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : SECPlayground (https://ctftime.org/team/375409)  
-                **添加日历** : https://ctftime.org/event/2914.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
