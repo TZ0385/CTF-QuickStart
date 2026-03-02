@@ -259,10 +259,10 @@ nav:
         - 从零开始的IDA: hc-reverse/从零开始的IDA.md
         - IDA动态调试: hc-reverse/IDA动态调试.md
       - 常见算法:
-          - 基本运算: hc-reverse/基本运算.md
-          - 编码基础: hc-reverse/编码基础.md
-          - 字节流算法: hc-reverse/字节流算法.md
-          - 分组密码: hc-reverse/分组密码.md
+        - 基本运算: hc-reverse/基本运算.md
+        - 编码基础: hc-reverse/编码基础.md
+        - 字节流算法: hc-reverse/字节流算法.md
+        - 分组密码: hc-reverse/分组密码.md
       - z3约束求解: hc-reverse/z3约束求解.md
       - x86 汇编初步: hc-reverse/Quick Start：ASM汇编.md
       - 代码保护与对抗:
