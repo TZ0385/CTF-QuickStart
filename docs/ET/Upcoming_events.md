@@ -54,6 +54,15 @@ comments: true
     **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
     **添加日历** : https://ctftime.org/event/3148.ics  
     
+??? Quote "[The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)"  
+    [![](https://ctftime.org/media/events/photo_2026-07-23_13-34-47.jpg){ width="200" align=left }](https://caplag.ru/competitions/the-heart-of-sysola)  
+    **比赛名称** : [The heart of Sysola](https://caplag.ru/competitions/the-heart-of-sysola)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-08 21:00:00 - 2026-08-09 09:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Caplag (https://ctftime.org/team/423152)  
+    **添加日历** : https://ctftime.org/event/3382.ics  
+    
 ??? Quote "[Thryve CTF 2026](https://ctf.thryvectf.org/)"  
     [![](https://ctftime.org/media/events/thryvelogo_4.jpeg){ width="200" align=left }](https://ctf.thryvectf.org/)  
     **比赛名称** : [Thryve CTF 2026](https://ctf.thryvectf.org/)  
@@ -90,6 +99,15 @@ comments: true
     **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
     **添加日历** : https://ctftime.org/event/3343.ics  
     
+??? Quote "[0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)"  
+    [![](){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
+    **比赛名称** : [0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-15 15:30:00 - 2026-08-16 15:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : OxV01D (https://ctftime.org/team/427687)  
+    **添加日历** : https://ctftime.org/event/3387.ics  
+    
 ??? Quote "[BrunnerCTF 2026](https://ctf.brunnerne.dk/)"  
     [![](https://ctftime.org/media/events/Logo_-_2-7.png){ width="200" align=left }](https://ctf.brunnerne.dk/)  
     **比赛名称** : [BrunnerCTF 2026](https://ctf.brunnerne.dk/)  
@@ -99,6 +117,24 @@ comments: true
     **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
     **添加日历** : https://ctftime.org/event/3065.ics  
     
+??? Quote "[PwnSec CTF 2026](https://ctf.pwnsec.team/)"  
+    [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://ctf.pwnsec.team/)  
+    **比赛名称** : [PwnSec CTF 2026](https://ctf.pwnsec.team/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-21 22:00:00 - 2026-08-22 22:00:00 UTC+8  
+    **比赛权重** : 33.89  
+    **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
+    **添加日历** : https://ctftime.org/event/3159.ics  
+    
+??? Quote "[z0d1ak CTF Qualifiers](http://ctf.z0d1ak.org/)"  
+    [![](https://ctftime.org/media/events/Zodiak_CTF_Logo.png){ width="200" align=left }](http://ctf.z0d1ak.org/)  
+    **比赛名称** : [z0d1ak CTF Qualifiers](http://ctf.z0d1ak.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-22 00:00:00 - 2026-08-23 12:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
+    **添加日历** : https://ctftime.org/event/3370.ics  
+    
 ??? Quote "[Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)"  
     [![](https://ctftime.org/media/events/haruul_zangi_logo_updated_2.png){ width="200" align=left }](https://2026.haruulzangi.mn/)  
     **比赛名称** : [Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)  
@@ -107,6 +143,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
     **添加日历** : https://ctftime.org/event/3379.ics  
+    
+??? Quote "[HITCON CTF 2026 Quals](http://ctf.hitcon.org/)"  
+    [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](http://ctf.hitcon.org/)  
+    **比赛名称** : [HITCON CTF 2026 Quals](http://ctf.hitcon.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-28 22:00:00 - 2026-08-30 22:00:00 UTC+8  
+    **比赛权重** : 91.16  
+    **赛事主办** : HITCON (https://ctftime.org/team/8299)  
+    **添加日历** : https://ctftime.org/event/3340.ics  
     
 ??? Quote "[COMPFEST CTF 2026](https://compfest.id/)"  
     [![](){ width="200" align=left }](https://compfest.id/)  
@@ -161,6 +206,15 @@ comments: true
     **比赛权重** : 77.08  
     **赛事主办** : The Few Chosen (https://ctftime.org/team/140885)  
     **添加日历** : https://ctftime.org/event/3344.ics  
+    
+??? Quote "[SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)"  
+    [![](https://ctftime.org/media/events/sunctfposter.jpg){ width="200" align=left }](https://www.sunwaycybersecurityclub.org/sunctf)  
+    **比赛名称** : [SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-06 08:00:00 - 2026-09-06 17:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Sunway Cybersecurity Club (https://ctftime.org/team/441392)  
+    **添加日历** : https://ctftime.org/event/3389.ics  
     
 ??? Quote "[K17 CTF 2026](https://k17ctf.secso.cc/)"  
     [![](https://ctftime.org/media/events/20848837627a0ae11a820f3c9ed4fabc.png){ width="200" align=left }](https://k17ctf.secso.cc/)  
